@@ -32,15 +32,33 @@ As a manager at an internet retail company, I want a back end for my e-commerce 
 
 ## Images
 
+### Terminal
+![Alt text](assets/Terminal.png)
 
+### All Products Example - GET
+![Alt text](assets/Products%20Preview.png)
+
+### Product ID Example - GET
+![Alt text](assets/Products%20ID%20Preview.png)
+
+### Product Create Example - POST
+![Alt text](assets/Products%20Preview-POST.png)
+
+### Product Update Example - PUT
+![Alt text](assets/Product%20Preview-PUT.png)
+
+### Product Delete Example - DELETE
+![Alt text](assets/Products%20Preview-DELETE.png)
 
 ## Link to Video Walkthrough
 
-**Video:** [Link]
+**Video:** [Link](https://www.youtube.com/watch?v=TzrPHI3d-XU)
 
 ## Credits
 
 The starter code for the config, models, routes, seeds, and server.js files for this project was used from a repository named "fantastic-umbrella" located in the Develop folder which can be accessed through the following link: https://github.com/coding-boot-camp/fantastic-umbrella.git
+
+Stack Overflow
 
 ## License
 
